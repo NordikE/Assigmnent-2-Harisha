@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  height: 100%;
+  font-size: 1em;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+  color: green;
+}
+
+.bgtext1 {
+  color: black;
+  text-align: center;
+  padding: 500px 0px;
+  margin: 0px;
+}
+.bgimg1 {
+  background-image: url("images/1-Snow-background.jpg");
+  min-height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgtext2 {
+  color: black;
+  text-align: center;
+  padding: 500px 0px;
+  margin: 0px;
+}
+.bgimg2 {
+  background-image: url("images/3-Autumn.jpg");
+  min-height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgtext3 {
+  color: black;
+  text-align: center;
+  padding: 500px 0px;
+  margin: 0px;
+}
+.bgimg3 {
+  background-image: url("images/4-Rain.jpg");
+  min-height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgtext4 {
+  color: black;
+  text-align: center;
+  padding: 500px 0px;
+  margin: 0px;
+}
+.bgimg4 {
+  background-image: url("images/5-Kos-background.jpg");
+  min-height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bgtext5 {
+  color: black;
+  text-align: center;
+  padding: 500px 0px;
+  margin: 0px;
+}
+.bgimg5 {
+  background-image: url("images/6-Kos.JPG");
+  min-height: 100%;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
